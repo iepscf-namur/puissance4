@@ -1,0 +1,6 @@
+C:\C\Puissance4\obj\Debug\Puissance4.csprojAssemblyReference.cache
+C:\C\Puissance4\bin\Debug\Puissance4.exe.config
+C:\C\Puissance4\bin\Debug\Puissance4.exe
+C:\C\Puissance4\bin\Debug\Puissance4.pdb
+C:\C\Puissance4\obj\Debug\Puissance4.exe
+C:\C\Puissance4\obj\Debug\Puissance4.pdb
